@@ -1,0 +1,12 @@
+.text{
+    font-size: 18px;
+    font-weight: bold;
+    fill: #ffffff;
+}
+.ellipse{
+    opacity: 0;
+}
+.circle{
+    fill: #a8a8a7;
+    opacity: 0.3;
+}

@@ -1,0 +1,103 @@
+.sizing{
+    height: 43%;
+    margin-left: 15px;
+    padding-bottom: 15px;
+}
+
+.chartDiv{
+    background-color: #f8f8f8;
+    padding-top: -20px;
+}
+
+.divProfilColoumnStyle{
+    
+    width: 300px;
+    margin-left: 35px;
+}
+
+.myProfileTittle{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.profilePicDiv{
+    height: 190px;
+    background-color: #f8f8f8;
+}
+.profilePicPos{
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+}
+
+.profileInfoDiv{
+    height: 130px ;
+    background-color: #f8f8f8;
+}
+.profileInfoPos{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.profileInfoPosPoints{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 100%);
+}
+.profileName{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0%;
+}
+.profileEmail{
+    margin-bottom: 0%;
+}
+.profilePointsIcon{
+    fill: #DA0C6F;
+    height: 25px; 
+    width: 25px;
+    margin-top: 7%;
+    margin-right: 5px;
+}
+.profilePointsScore{
+    color: #DA0C6F;
+    font-size: 25px;
+    float: right;
+}
+
+.profileSkillsTittle{
+    margin-top: 15px;
+    float: left;
+    font-weight: bold;
+}
+.profileSkillsIcon{
+    margin-top: 0px;
+}
+
+.profileSkillsDiv{
+    background-color: #f8f8f8;
+}
+.profileSkillsIcon{
+    float: right;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

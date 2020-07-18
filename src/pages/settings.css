@@ -1,0 +1,43 @@
+.settingsTittle{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.settingsRightNavigation{
+    text-align: right;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.titleLine{
+    margin-left: 30px;
+    margin-right: 35px;
+    background-color:  #000000;
+}
+
+.settingsContents{
+    margin-left: 60px;
+    margin-right: 30px;
+}
+.suTtitles{
+    font-size: 15px;
+    font-weight: bold;
+}
+.subTitlesContents{
+    font-size: 15px;
+    font-weight: normal;
+}
+.settingsContentsNavigation{
+    text-align: right;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+.settingsContentsLine{
+    margin-left: 30px;
+    margin-right: 35px;
+    background-color:  #f8f8f8;
+}

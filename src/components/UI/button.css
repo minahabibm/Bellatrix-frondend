@@ -1,0 +1,30 @@
+.primary{
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    border-color : #000000;
+    border-width: 1px;
+    padding: 7px 14px;
+    margin: 4px 8px;
+}
+.secondry{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 14px;
+    font-weight: bold;
+    border-color : #000000;
+    border-width: 1px;
+    padding: 7px 14px;
+    margin: 4px 8px;
+}
+.disabled{
+    background-color: #dadada;
+    color: #a8a8a8;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    padding: 7px 14px;
+    margin: 8px 8px;
+
+}

@@ -1,0 +1,12 @@
+.cardIcon{
+    float: 'right' ;
+    color: '#BEBEBE'; 
+    font-size: '22px';
+}
+.cardtitle{
+    font-size: '18px';
+    font-weight: 'bold';
+}
+.cardContentPar{
+    font-size: '16px';
+}

@@ -1,0 +1,59 @@
+.divstyle{
+    background-color: #f8f8f8;
+    width: 300px;
+}
+
+.userHelpTittle{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contactus{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    padding-right: 70px;
+}
+
+.titlestyle{
+    font-weight: bold;
+}
+
+.textstyle{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.titleUserHelpLine{
+    margin-left: 30px;
+    margin-right: 35px;
+    margin-bottom: 0;
+    background-color:  #000000;
+}
+
+.fontStyling{
+    float: right;
+    color: #000000;
+    font-size: 14px;
+}
+
+.posPho{
+    margin-right: 80px;
+}
+
+.posSup{
+    margin-right: 30px;
+    margin-top: 2px;
+}
+
+.posPin{
+    margin-right: 55px;    
+}
+
+.userHelpContent{
+    margin-left: 30px;
+    margin-right: 35px;
+}

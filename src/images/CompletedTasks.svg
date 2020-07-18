@@ -1,0 +1,10 @@
+<svg id="Component_36_1" data-name="Component 36 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <clipPath id="clip-path_3">
+      <rect id="Rectangle_543" data-name="Rectangle 543" width="31" height="31" transform="translate(491 155)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_142" data-name="Mask Group 142" transform="translate(-491 -155)" opacity="0.25" clip-path="url(#clip-pat_3)">
+    <path id="check-form" fill="#707070" stroke="#707070" d="M23.728,16.436V2.5H2.922V28.5h9.57a1.248,1.248,0,1,1,0,2.5H1.674A1.252,1.252,0,0,1,.426,29.752V1.248A1.252,1.252,0,0,1,1.674,0h23.3a1.252,1.252,0,0,1,1.248,1.248V16.436a1.248,1.248,0,1,1-2.5,0Zm6.429,3.038a1.251,1.251,0,0,0-1.768.1l-6.845,7.615L18.11,23.885a1.251,1.251,0,1,0-1.727,1.81l4.369,4.2a1.226,1.226,0,0,0,.874.354h.042a1.248,1.248,0,0,0,.874-.416l7.7-8.572A1.256,1.256,0,0,0,30.157,19.474ZM19.151,7.282H7.916a1.248,1.248,0,0,0,0,2.5H19.151a1.248,1.248,0,0,0,0-2.5ZM20.4,15.4a1.252,1.252,0,0,0-1.248-1.248H7.916a1.248,1.248,0,0,0,0,2.5H19.151A1.252,1.252,0,0,0,20.4,15.4ZM7.916,20.805a1.248,1.248,0,0,0,0,2.5h3.329a1.248,1.248,0,1,0,0-2.5Z" transform="translate(491 155)"/>
+  </g>
+</svg>

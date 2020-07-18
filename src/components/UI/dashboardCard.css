@@ -1,0 +1,52 @@
+.dashboardStyling{
+    height: 85px;
+    width: 259px;
+    background-color: #F8F8F8;
+    color: #000000;
+    border: none;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 22px;
+    cursor: pointer;
+}
+.dashboardStylingSelected{
+    height: 85px;
+    width: 259px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 22px;
+    cursor: pointer;
+}
+.dashboardCardIcon{
+    stroke: #ffffff;
+    fill:#ffffff;
+    padding-top: 15px;
+    float: right;
+}
+.dashboardCardSty{
+    width: 75%;
+    text-align: left;
+}
+.dashboardStylingSelectedPar{
+    font-size: 24px;
+}
+.dashboardReg{
+    font-size: 24px;
+}
+.dashboardCom{
+    font-size: 24px;
+    color: #78C043;
+}
+.dashboardPen{
+    font-size: 24px;
+    color: #0072CE;
+}
+.dashboardFai{
+    font-size: 24px;
+    color: #DA0C6F;
+}

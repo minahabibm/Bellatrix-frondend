@@ -1,0 +1,9 @@
+<svg id="Component_40_1" data-name="Component 40 – 1" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="11" cy="11" r="11" fill="#f8f8f8"/>
+  <g id="grid" transform="translate(2.784 2.783)">
+    <rect id="Rectangle_292" data-name="Rectangle 292" width="3.378" height="3.378" transform="translate(3.709 3.709)" stroke-width="1.2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#f8f8f8"/>
+    <rect id="Rectangle_293" data-name="Rectangle 293" width="3.378" height="3.378" transform="translate(9.339 3.709)" stroke-width="1.2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#f8f8f8"/>
+    <rect id="Rectangle_294" data-name="Rectangle 294" width="3.378" height="3.378" transform="translate(9.339 9.339)" stroke-width="1.2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#f8f8f8"/>
+    <rect id="Rectangle_295" data-name="Rectangle 295" width="3.378" height="3.378" transform="translate(3.709 9.339)" stroke-width="1.2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#f8f8f8"/>
+  </g>
+</svg>

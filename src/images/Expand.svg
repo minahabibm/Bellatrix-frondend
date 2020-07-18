@@ -1,0 +1,45 @@
+<svg id="Expand" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path_6);
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.6px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path_6">
+      <rect id="Rectangle_425" data-name="Rectangle 425" class="cls-1" width="10" height="10" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_424" data-name="Rectangle 424" class="cls-2">
+    <rect class="cls-5" width="18" height="18" rx="9"/>
+    <rect class="cls-6" x="0.75" y="0.75" width="16.5" height="16.5" rx="8.25"/>
+  </g>
+  <g id="Mask_Group_83" data-name="Mask Group 83" class="cls-3" transform="translate(14 5) rotate(90)">
+    <path id="chevron-right" class="cls-4" d="M0,8.4,4.2,4.2,0,0" transform="translate(2.968 0.807)"/>
+  </g>
+</svg>

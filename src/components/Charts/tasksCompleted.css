@@ -1,0 +1,31 @@
+.iconPointsStyling{
+    float:left;
+    height: 20px;
+    width: 20px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.titleStyling{
+    font-weight: bold;
+    font-size: 18px;
+}
+.iconArrowPointsStyling{
+    margin-top: 7px;
+    margin-right: 5px;
+    margin-left: 5px;
+    float: right; 
+}
+.subtitleStyling{
+    float: right;
+}
+
+.divPointsStyling{
+    margin-top: 10px;
+    margin-bottom: 17px;
+    padding-top: 20px;
+    padding-left: 10px;    
+}
+.divPointsChartStyling{
+    padding-left: 15px;
+    
+}

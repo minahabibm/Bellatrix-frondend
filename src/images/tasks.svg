@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <clipPath id="clip-paths_11">
+      <rect id="Rectangle_649" data-name="Rectangle 649" width="17" height="17" transform="translate(67.805 352.805)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_180" data-name="Mask Group 180" transform="translate(-67.805 -352.805)" clip-path="url(#clip-paths_11)">
+    <g id="_034-file" data-name="034-file" transform="translate(67.979 353.167)">
+      <g id="Group_761" data-name="Group 761" transform="translate(2.352 3.455)">
+        <path id="Path_826" data-name="Path 826" d="M12.873,10.4H8.814a.624.624,0,1,1,0-1.249h4.059a.624.624,0,1,1,0,1.249Z" transform="translate(-4.86 -6.444)"/>
+        <path id="Path_827" data-name="Path 827" d="M10.521,14.3H8.814a.624.624,0,1,1,0-1.249h1.707a.624.624,0,1,1,0,1.249Z" transform="translate(-4.86 -7.638)"/>
+        <path id="Path_828" data-name="Path 828" d="M9.793,18.2H8.814a.624.624,0,1,1,0-1.249h.978a.624.624,0,1,1,0,1.249Z" transform="translate(-4.86 -8.833)"/>
+        <path id="Path_829" data-name="Path 829" d="M5.159,6.5H4.014a.624.624,0,1,1,0-1.249H5.159a.624.624,0,1,1,0,1.249Z" transform="translate(-3.39 -5.25)"/>
+        <path id="Path_830" data-name="Path 830" d="M12.873,6.5H8.814a.624.624,0,0,1,0-1.249h4.059a.624.624,0,1,1,0,1.249Z" transform="translate(-4.86 -5.25)"/>
+        <path id="Path_831" data-name="Path 831" d="M5.159,10.4H4.014a.624.624,0,1,1,0-1.249H5.159a.624.624,0,1,1,0,1.249Z" transform="translate(-3.39 -6.444)"/>
+        <path id="Path_832" data-name="Path 832" d="M5.159,14.3H4.014a.624.624,0,1,1,0-1.249H5.159a.624.624,0,1,1,0,1.249Z" transform="translate(-3.39 -7.638)"/>
+        <path id="Path_833" data-name="Path 833" d="M5.159,18.2H4.014a.624.624,0,1,1,0-1.249H5.159a.624.624,0,1,1,0,1.249Z" transform="translate(-3.39 -8.833)"/>
+      </g>
+      <path id="Path_834" data-name="Path 834" d="M16.464,5.806,14.216,3.559a.6.6,0,0,0-.874,0l-.062.062v-2.1A1.227,1.227,0,0,0,12.03.27H1.249A1.227,1.227,0,0,0,0,1.519V15.3a1.227,1.227,0,0,0,1.249,1.249H12.03A1.227,1.227,0,0,0,13.279,15.3V9.886l3.185-3.205A.6.6,0,0,0,16.464,5.806ZM12.03,15.3H1.249V1.519H12.03v3.33L7.576,9.3a.671.671,0,0,0-.167.291L6.6,12.675a.607.607,0,0,0,.167.6.6.6,0,0,0,.437.187.459.459,0,0,0,.167-.021l3.08-.812a.593.593,0,0,0,.291-.167l1.311-1.311V15.3Zm-3.684-4.35.728.728-1,.271Zm1.936.187L8.887,9.761,12.259,6.41l1.374,1.374Zm4.246-4.267L13.154,5.494l.624-.624,1.374,1.374Z" transform="translate(0 -0.27)"/>
+    </g>
+  </g>
+</svg>

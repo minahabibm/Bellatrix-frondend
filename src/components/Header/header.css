@@ -1,0 +1,52 @@
+.navbar{
+    background-color: #000000;
+    font-family: Arial;
+    width: 100%;
+    font-size: 15px;
+
+}
+.logo{
+    color: green;
+    text-align: left;
+    padding-top: 15px;
+    margin-right: 180px;
+}
+
+.middleNAvigation{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.linksHeader{
+    color: #a8a8a7;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+a:hover { 
+    text-decoration: none; 
+} 
+
+.rightNavigation{
+    color: white;
+    text-align: right;
+}
+
+.title{
+    float: left;
+    width: 100px;
+    overflow: auto;
+    padding: 0px 0px 0px 0px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 2px;
+}
+
+.titles{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.fontColor{
+    color: #78C043;
+}

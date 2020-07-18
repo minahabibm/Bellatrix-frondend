@@ -1,0 +1,104 @@
+.divColumnStyle{
+    background-color: #f8f8f8;
+    width: 300px;
+}
+.dBcontactus{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    padding-right: 70px;
+}
+.dBtitlestyle{
+    font-weight: bold;
+}
+.dbCalenderCards{
+    margin-top: 20px;
+}
+.dashboardTittle{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.dashBoardcardsRow{
+    border: '1px solid black';
+    height: 9%;
+    max-height: 90px;
+    min-height: 90px;
+}
+.dashBoardcardsCol{
+    margin:0;
+    padding:0;
+}
+.dashBoardViewDiv{
+    margin-top: 1.5%;
+    margin-bottom: 1%;
+}
+
+
+
+
+
+
+.paginationDiv {
+    float: right;
+}
+
+
+.taskFont{
+    font-weight: bold !important;
+}
+.duedate{
+    color: #DA0C6F;
+}
+.duedateIcon{
+    margin-right: 5%;
+}
+.cellsRow{
+    padding: 8px;
+}
+.taskRow{
+    max-width: 255px;
+}
+.skillsRow{
+    max-width: 200px;
+}
+.diamondDashboard {
+    height: 18px;
+    width: 18px;
+    margin-right: 10%;
+    padding-bottom: 3px;
+}
+.dotCompleted {
+    height: 9px;
+    width: 9px;
+    background-color:#78C043;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10%;
+}
+.dotActive {
+    height: 9px;
+    width: 9px;
+    background-color: #00B2AC;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10%;
+}
+.dotPending {
+    height: 9px;
+    width: 9px;
+    background-color: #0072CE;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10%;
+}
+.dotInactive {
+    height: 9px;
+    width: 9px;
+    background-color: #DA0C6F;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10%;
+  }

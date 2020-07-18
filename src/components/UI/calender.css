@@ -1,0 +1,44 @@
+.rowStyling{
+    border-bottom: 2px solid #f8f8f8;
+}
+.rowsStyling{
+    background-color: #ffffff;
+    
+}
+.arrowsHeader{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.dateHeader{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    font-weight: bold;
+}
+.daysName{
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.days{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    font-size: 14px;
+}
+.selected{
+    color: #ffffff;
+    background-color: #000000;
+    shape-outside: circle();
+    clip-path: circle();
+}
+.disabled {
+    color: #7c7c7b;
+    background-color:#ffffff;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    pointer-events: none;
+}

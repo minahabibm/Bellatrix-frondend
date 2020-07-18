@@ -1,0 +1,47 @@
+.header{
+    position: relative;
+    cursor: pointer;
+    border-bottom: solid 1px #f2f2f2;
+    padding: 25px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.headerAfter{
+    position: relative;
+    cursor: pointer;
+    border-bottom: solid 1px #f2f2f2;
+    padding: 25px;
+    background-color: #f1f2f2;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+  
+.content{
+    position: relative;
+    cursor: pointer;
+    background-color: #f1f2f2;
+    border-bottom: solid 1px #f2f2f2;
+    padding: 25px;
+    font-family: Arial;
+    font-size: 15px;
+}
+.contentpar{
+    width: 90%;
+}
+
+.indicator{
+    position: absolute;
+    right: 30px;
+}
+
+.titleContentLine{
+    margin-top: -25px;
+    margin-bottom: 20px;
+    background: #e6e7e8;;
+}

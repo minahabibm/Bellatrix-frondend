@@ -1,0 +1,16 @@
+<svg id="Component_43_1" data-name="Component 43 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path__12">
+      <rect id="Rectangle_599" data-name="Rectangle 599" width="12" height="12" transform="translate(418.09 81.09)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="11" cy="11" r="11"/>
+  <g id="Mask_Group_166" data-name="Mask Group 166" transform="translate(-413.09 -76.09)" clip-path="url(#clip-path_12)">
+    <g id="calendar" transform="translate(419.451 81.935)">
+      <rect id="Rectangle_598" data-name="Rectangle 598" width="9.278" height="9.278" rx="1.091" transform="translate(0 1.031)" stroke-width="1.091" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <line id="Line_194" data-name="Line 194" y2="2.062" transform="translate(6.701)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.091"/>
+      <line id="Line_195" data-name="Line 195" y2="2.062" transform="translate(2.577)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.091"/>
+      <line id="Line_196" data-name="Line 196" x2="9.278" transform="translate(0 4.124)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.091"/>
+    </g>
+  </g>
+</svg>
