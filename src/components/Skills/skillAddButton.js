@@ -175,7 +175,7 @@ function SkillsAddButton(props) {
   useEffect(() => {
     const results = props.data.filter(autoComplete => autoComplete.title.toLowerCase().includes(searchTerm.toLowerCase()));
     setSearchResults(results);
-  }, [searchTerm]);
+  }, [searchTerm, props.data]);
 
   return (
 

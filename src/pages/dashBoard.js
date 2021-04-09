@@ -149,11 +149,11 @@ function DashBoard(props) {
   useEffect(() => {
     const results = searchResults.filter(autoComplete => autoComplete.Task.toLowerCase().includes(searchTerm.toLowerCase()));
     setSearchAndFiltersResults(results);
-  }, [searchTerm]);
+  }, [searchTerm,searchResults]);
   useEffect(() => {
     const results = searchResults.filter(autoComplete => autoComplete.Task.toLowerCase().includes(searchTerm.toLowerCase()));
     setSearchAndFiltersResults(results);
-  }, [searchResults]);
+  }, [searchResults,searchTerm]);
   useEffect(() => {
     let isFiltered= false;
     for (const [key, filter] of Object.entries(filterDashboardCards)) {
@@ -182,7 +182,7 @@ function DashBoard(props) {
         setSearchResults(props.data);
       }
     }
-  }, [filterDashboardCards]);
+  }, [filterDashboardCards, props.data]);
 
   return (
    
@@ -344,9 +344,9 @@ function DashBoard(props) {
                     </TableRow>
                   </TableHead>
                   <TableBody>
-                    {searchAndFiltersResults.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage).map((row) => (
+                    {searchAndFiltersResults.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage).map((row,index) => (
                       <TableRow 
-                        key={row.name} 
+                        key={index}
                       >
                         <TableCell component="th" scope="row" 
                           className={row.Deadline?"taskRow taskFont": "taskRow"} 
@@ -435,8 +435,9 @@ function DashBoard(props) {
 
           <div className="dbCalenderCards">
             {
-              props.data.slice(0,10).filter((task) => {return task.WorkerId === 0}).map(filteredName => (
+              props.data.slice(0,10).filter((task) => {return task.WorkerId === 0}).map((filteredName,index) => (
                 <CardsAlert
+                  key={index}
                   date={dateFns.format(new Date(filteredName.Deadline), 'MMMMMM eo, yyyy')}
                   task={filteredName.Task}
                 >
